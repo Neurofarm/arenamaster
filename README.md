@@ -2,6 +2,8 @@
 
 #### A Laser Tag Arena Management Suite
 
+This is the development branch.
+
 ## What's It About?
 
 Arena Master's aim is to be a suite of interconnected app screens that function as a singular app, in order to simplify the operation of a laser tag arena. 
